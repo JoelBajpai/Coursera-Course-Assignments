@@ -7,3 +7,9 @@
   - [Problem Statement](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)
   - [Solution](https://joelbajpai.github.io/Coursera-Course-Assignments/module-2-solution/index.html)
 
+
+### Module 3 Assignemnt
+
+  - [Problem Statement](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md)
+  - [Solution](https://joelbajpai.github.io/Coursera-Course-Assignments/module-3-solution/index.html)
+
