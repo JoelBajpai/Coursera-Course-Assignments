@@ -44,7 +44,16 @@ hr {
 	color: #000000;
 	font-weight: bold;
 
+
 }
+
+#nav-list li {
+	background-color: white;
+	list-style-position: inside;
+	border: 1px solid black;
+
+}
+
 
 
 .navbar-brand a {
