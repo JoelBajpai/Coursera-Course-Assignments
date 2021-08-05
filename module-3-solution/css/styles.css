@@ -4,6 +4,7 @@
 
 .row {
 	width: 100%;
+	margin-left: 0%;
 }
 
 #header-nav {
@@ -26,13 +27,14 @@ section {
 p {
 	font-size: 15px;
 	font-weight: bold;
-	padding: 0px 15px 0px 15px;
+	padding: 15px;
 }
 
 #nav-list a {
 	font-size: 1.5em;
 	text-align: center;
 	color: #000000;
+	display: block;
 }
 
 #nav-list li {
@@ -45,5 +47,5 @@ p {
 	color: #000000;
 	font-weight: bold;
 	margin-top: 0;
-  margin-bottom: 0;
+  	margin-bottom: 0;
 }
