@@ -18,3 +18,9 @@
 
   - [Problem Statement](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md)
   - [Solution](https://joelbajpai.github.io/Coursera-Course-Assignments/module-4-solution/index.html)
+
+
+### Module 5 Assignment
+
+  - [Problem Statement](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md)
+  - [Solution](https://joelbajpai.github.io/Coursera-Course-Assignments/module-5-solution/index.html)
